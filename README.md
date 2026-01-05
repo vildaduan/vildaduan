@@ -13,7 +13,11 @@ I am a Computer Science Master’s graduate who enjoys building machine learning
 ## 📌 Featured Projects
 
 ### ⭐ [Machine Learning for Trading](https://github.com/vildaduan/machine-learning-for-trading)  
-A Python‑based market simulator for algorithmic trading that processes historical trading orders, tracks portfolio performance, and visualizes comparisons between strategies (manual vs Q‑learning). Demonstrates practical ML and trading workflow using data visualization and strategy evaluation.  
+A Python‑based market simulator for algorithmic trading that processes historical orders, tracks portfolio performance, and visualizes strategy outcomes. Includes comparison visuals between manual vs Q‑learning strategies.
+
+### ⭐ [Sales Data Dashboard](https://github.com/vildaduan/sales-data-dashboard)  
+A full‑stack dashboard displaying the top‑performing sellers by month, built with a .NET Core backend and React frontend. Includes branch filters and interactive UI for exploring sales performance.
+
 
 
 ## 📫 Contact
