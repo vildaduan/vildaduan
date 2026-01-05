@@ -5,9 +5,9 @@ I am a Computer Science Master’s graduate who enjoys building machine learning
 
 ## Tech Stack
 - Languages: Python, C#, TypeScript, JavaScript, SQL, SAS
-- Tools: .NET, React, Unity, Git, Pandas, NumPy, Matplotlib, CatBoost
-- ML/AI: RL, Q-Learning, LLM evaluation, Predictive Modeling, Model Interpretability
-- Cloud: Cloud GPU, RunPod
+- Tools & Frameworks: .NET, React, Unity, Git, Pandas, NumPy, Matplotlib, CatBoost
+- ML/AI: Reinforcement Learning, Q-Learning, LLM evaluation, Predictive Modeling, Model Interpretability
+- Cloud/Deployment: RunPod, Cloud GPU
 
 
 ## Featured Projects
