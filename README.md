@@ -1,7 +1,6 @@
 # Hi, I'm Vilda
 
-I am a Computer Science Master’s graduate who enjoys building machine learning, reinforcement learning, and AI-driven systems. I love working on interpretable models, automated pipelines, and deploying scalable intelligent applications. Mostly working with Python, RL, full-stack tools, and cloud ML pipelines.
-
+I am a Computer Science Master’s graduate specializing in the intersection of Machine Learning, Statistical Programming, and Scalable AI systems. I enjoy building interpretable models and end-to-end data pipelines, with experience ranging from reinforcement learning for algorithmic trading to production-grade SAS programming for clinical study reports. My core toolkit includes Python, SAS, RL, and Full-stack cloud deployment.
 
 ## Tech Stack
 - Languages: Python, C#, TypeScript, JavaScript, SQL, SAS
