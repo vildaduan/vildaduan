@@ -12,6 +12,11 @@ I am a Computer Science Master’s graduate who enjoys building machine learning
 
 ## Featured Projects
 
+### [Clinical SAS TLF Development](https://github.com/vildaduan/Clinical-SAS-TLF-Development) 
+A programmatic suite for generating CSR-standard Demographic and Baseline Characteristics (Table 14.1). 
+Features CDISC-aligned data structures, advanced reporting via `PROC REPORT`, and integrated 
+statistical comparisons (Wilcoxon Rank-Sum and Fisher’s Exact tests) to evaluate treatment arm balance.
+
 ### [Machine Learning for Trading](https://github.com/vildaduan/machine-learning-for-trading)  
 A Python‑based market simulator for algorithmic trading that processes historical orders, tracks portfolio performance, and visualizes strategy outcomes. Includes comparison visuals between manual vs Q‑learning strategies.
 
