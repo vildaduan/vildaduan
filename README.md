@@ -12,7 +12,7 @@ I am a Computer Science Master’s graduate specializing in the intersection of 
 ## Featured Projects
 
 ### [Clinical SAS TLF Development](https://github.com/vildaduan/Clinical-SAS-TLF-Development) 
-A programmatic suite for generating CSR-standard Demographic and Baseline Characteristics (Table 14.1). 
+A programmatic suite for generating CSR-standard Demographic and Baseline Characteristics. 
 Features CDISC-aligned data structures, advanced reporting via `PROC REPORT`, and integrated 
 statistical comparisons (Wilcoxon Rank-Sum and Fisher’s Exact tests) to evaluate treatment arm balance.
 
