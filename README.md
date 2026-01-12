@@ -11,15 +11,15 @@ I am a Computer Science Master’s graduate specializing in the intersection of 
 
 ## Featured Projects
 
-### [Clinical SAS CDISC Pipeline: End-to-End Implementation](https://github.com/vildaduan/clinical-sas-cdisc-pipeline)
-An end-to-end data transformation suite that bridges the gap between raw EDC data and submission-ready analysis. 
-Core Tech: SAS 9.4, CDISC SDTM (v3.3), ADaM (v1.1).
-Key Achievement: Mapped raw clinical data to SDTM DM and ADaM ADSL domains; generated validated Table 14.1 outputs using `PROC TABULATE` with precise column-wise statistical denominators.
-
 ### [Clinical SAS TLF Development](https://github.com/vildaduan/Clinical-SAS-TLF-Development) 
 A programmatic suite for generating CSR-standard Demographic and Baseline Characteristics (Table 14.1). 
 Features CDISC-aligned data structures, advanced reporting via `PROC REPORT`, and integrated 
 statistical comparisons (Wilcoxon Rank-Sum and Fisher’s Exact tests) to evaluate treatment arm balance.
+
+### [Clinical SAS CDISC Pipeline: End-to-End Implementation](https://github.com/vildaduan/clinical-sas-cdisc-pipeline)
+An end-to-end data transformation suite that bridges the gap between raw EDC data and submission-ready analysis. 
+Core Tech: SAS 9.4, CDISC SDTM (v3.3), ADaM (v1.1).
+Key Achievement: Mapped raw clinical data to SDTM DM and ADaM ADSL domains; generated validated Table 14.1 outputs using `PROC TABULATE` with precise column-wise statistical denominators.
 
 ### [Machine Learning for Trading](https://github.com/vildaduan/machine-learning-for-trading)  
 A Python‑based market simulator for algorithmic trading that processes historical orders, tracks portfolio performance, and visualizes strategy outcomes. Includes comparison visuals between manual vs Q‑learning strategies.
