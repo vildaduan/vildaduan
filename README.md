@@ -22,7 +22,7 @@ End-to-end data transformation from raw EDC data to **submission-ready analysis 
 - Mapped raw clinical data to SDTM DM and ADaM ADSL domains  
 - Generated validated Table 14.1 outputs using `PROC TABULATE` with precise statistical denominators  
 
-### [Other Technical Projects]  
+### Other Technical Projects  
 - **Machine Learning for Trading:** Python-based market simulator with portfolio tracking and strategy visualization  
 - **Sales Data Dashboard:** Full-stack .NET Core + React dashboard showing top-performing sellers and interactive analytics  
 
