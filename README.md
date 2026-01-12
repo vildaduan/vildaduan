@@ -13,8 +13,8 @@ I am a Computer Science Master’s graduate specializing in the intersection of 
 
 ### [Clinical SAS CDISC Pipeline: End-to-End Implementation](https://github.com/vildaduan/clinical-sas-cdisc-pipeline)
 An end-to-end data transformation suite that bridges the gap between raw EDC data and submission-ready analysis. 
-* **Core Tech:** SAS 9.4, CDISC SDTM (v3.3), ADaM (v1.1).
-* **Key Achievement:** Mapped raw clinical data to SDTM DM and ADaM ADSL domains; generated validated Table 14.1 outputs using `PROC TABULATE` with precise column-wise statistical denominators.
+Core Tech: SAS 9.4, CDISC SDTM (v3.3), ADaM (v1.1).
+Key Achievement: Mapped raw clinical data to SDTM DM and ADaM ADSL domains; generated validated Table 14.1 outputs using `PROC TABULATE` with precise column-wise statistical denominators.
 
 ### [Clinical SAS TLF Development](https://github.com/vildaduan/Clinical-SAS-TLF-Development) 
 A programmatic suite for generating CSR-standard Demographic and Baseline Characteristics (Table 14.1). 
