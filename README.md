@@ -1,6 +1,6 @@
 # Hi, I'm Vilda
 
-I’m a Master’s graduate in Computer Science with training in SAS programming and clinical-style data projects. I have experience working with simulated clinical datasets following CDISC SDTM/ADaM standards and generating Tables, Listings, and Figures (TLFs) using SAS. I enjoy building structured data pipelines and performing statistical analyses to produce reproducible, analysis-ready outputs. My toolkit includes SAS, R, and Python.
+I’m a Master’s graduate in Computer Science with training in SAS programming and clinical-style data projects. I have experience working with public clinical datasets following CDISC SDTM/ADaM standards and generating Tables, Listings, and Figures (TLFs) using SAS. I enjoy building structured data pipelines and performing statistical analyses to produce reproducible, analysis-ready outputs. My toolkit includes SAS, R, and Python.
 
 ## Tech Stack
 - **Languages:** SAS, Python, R, SQL, C#, TypeScript, JavaScript
