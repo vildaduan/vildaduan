@@ -22,6 +22,12 @@ End-to-end data transformation from raw EDC data to **submission-ready analysis 
 - Mapped raw clinical data to SDTM DM and ADaM ADSL domains  
 - Generated validated Table 14.1 outputs using `PROC TABULATE` with precise statistical denominators  
 
+### [Clinical SAS Macro Library: Safety Demographics](https://github.com/vildaduan/sas-clinical-macro-library)
+Automated reporting suite for generating **Safety Population Demographic Tables** using CDISC Pilot 101 data.
+- Developed **Dynamic Macro Architecture** using `PROC SQL INTO:` for automated Big N header population.
+- Implemented complex data restructuring and **Zero-Fill Logic** using SAS arrays and `PROC TRANSPOSE`.
+- Produces submission-ready **RTF outputs** with professional formatting and integrated visual validation.
+
 ### Other Technical Projects  
 - **Machine Learning for Trading:** Python-based market simulator with portfolio tracking and strategy visualization  
 - **Sales Data Dashboard:** Full-stack .NET Core + React dashboard showing top-performing sellers and interactive analytics  
