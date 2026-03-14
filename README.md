@@ -62,7 +62,11 @@ Developed **C-RAS** (Causally-validated Reliable Activation Steering) — a fram
 
 ## GitHub Stats
 
+![Vilda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vildaduan&show_icons=true&theme=default&hide_border=true&count_private=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage)
+
 ![Vilda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vildaduan&show_icons=true&theme=default&hide_border=true&count_private=true)
+
+![Vilda's Repo Stats](https://github-readme-stats.vercel.app/api?username=vildaduan&show=forks&theme=default&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vildaduan&layout=compact&theme=default&hide_border=true)
 
